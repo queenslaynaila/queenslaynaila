@@ -12,7 +12,7 @@
 
 <p align="left" style="float: left;">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/queenslay-jema-6632a61b9/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Queenslays  LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/queenslay-jea-6632a61b9/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Queenslays  LinkedIn" /></a>
   <span>&nbsp;</span>
   <!-- Twitter -->
   <a href="https://twitter.com/queenslay_neila" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt=" Queenslays's Twitter" /></a>
